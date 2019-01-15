@@ -4,7 +4,7 @@
 /* 2 - ID selector (#) */
 
 body {
-  background-color: rgb(49, 44, 43)
+  background-color: rgb(142, 100, 219)
 }
 
 h1 {
@@ -34,6 +34,47 @@ h2 {
 
 
 
+/* session 3 square padding margin */
+
+.square {
+	list-style-type: square;
+	border: 1px solid;
+
+	padding-left: 100px;
+	padding-top: 10px;
+	margin-bottom: 30px;
+}
+.square li {
+	color: blue;
+	margin: 10px 10px 5px 8px;
+
+}
+
+.container {
+	padding: 20px;
+	border: 1px solid blue;
+
+}
+
+.container button{
+	font-size: 20px;
+	font-weight: 100;
+	color:  green;
+
+}
+
+
+
+/* session 3 square padding margin */
+
+
+/* blog style******** */
+article {height: 100px;
+}
+
+#entry {
+	background-color: brown
+}
 
 /* hex 0 1 2 3 4 5 6 7 8 9 A B C D E F */
 /* RGB RED GREEN BLUE */
